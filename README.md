@@ -4,7 +4,7 @@
 - 📚 Currently studying Computer Science at University of Évora ...
 
 ## Languages I have worked with:
-![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,git,go,js,md,postgres,rust,bash,ocaml,php)
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,git,go,js,md,postgres,rust,bash,ocaml,php)
 
 ## Frameworks and tools I have used:
 ![Frameworks/Tools](https://skillicons.dev/icons?i=arduino,dotnet,maven,nodejs,react,unity,unreal,godot,blender)
