@@ -4,10 +4,10 @@
 - 📚 Currently studying Computer Science at University of Évora ...
 
 ## Languages I have worked with:
-![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,git,go,js,md,postgres,rust,bash,ocaml,php)
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,js,md,postgres,rust,bash,ocaml,php)
 
 ## Frameworks and tools I have used:
-![Frameworks/Tools](https://skillicons.dev/icons?i=arduino,dotnet,maven,nodejs,react,unity,unreal,godot,blender)
+![Frameworks/Tools](https://skillicons.dev/icons?i=arduino,dotnet,git,maven,nodejs,react,unity,unreal,godot,blender)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomassantunes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomassantunes&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
