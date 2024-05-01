@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CiberSecurity and Artificial Intelligence ...
 - 📚 Currently working as a Junior Software Developer at PHC Software ...
 ## Languages I have worked with:
-![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,js,md,postgres,rust,bash,ocaml,php,zig)
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,js,postgres,rust,php,zig)
 
 ## Frameworks and tools I have used:
 ![Frameworks/Tools](https://skillicons.dev/icons?i=arduino,dotnet,git,maven,nodejs,react,unity,unreal,godot,blender)
