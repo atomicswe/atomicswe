@@ -6,7 +6,7 @@
 ![Skills](https://skillicons.dev/icons?i=c,cs,java,python,go,js,postgres,rust,zig)
 
 ## Frameworks and tools I have used:
-![Frameworks/Tools](https://skillicons.dev/icons?i=dotnet,git,maven,nodejs,react,unity,unreal,godot,blender)
+![Frameworks/Tools](https://skillicons.dev/icons?i=dotnet,git,maven,nodejs,react,svelte,unity,unreal,godot,blender)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomassantunes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
