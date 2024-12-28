@@ -1,18 +1,23 @@
-# Hi there 👋
-- 🔭 I'm interested in Go and C# ...
-- 🌱 I’m currently learning CiberSecurity and Artificial Intelligence ...
-- 📚 Currently working as a Junior Software Developer at PHC Software ...
-## Languages I have worked with:
-![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,js,postgres,rust,zig)
+# @atomicswe - The Tech Explorer
 
-## Frameworks and tools I have used:
-![Frameworks/Tools](https://skillicons.dev/icons?i=dotnet,git,maven,nodejs,react,svelte,unity,unreal,godot,blender)
+Welcome to the digital den of @atomicswe, where technology and gym enthusiasm collide:
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomassantunes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomassantunes&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+- **Interests**: I'm a gym lover, but my true passion is diving into the depths of new tech. Leg day? It's just another challenge like mastering a new programming language.
+- **Professional**: I don't just work with tech; I explore it like it's a new continent. My title? "Digital Adventurer."
+- **Learning**: I'm all about soaking up knowledge, whether it's the latest in AI or the nuances of network security. 
 
-<!--
-**tomassantunes/tomassantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Notable Achievements
+
+- Survived leg day and learned a new tech skill in the same week. Talk about multitasking!
+
+## Tech Stack
+
+- **Platforms**: My tech stack is as varied as my workout routine, always ready to adapt and grow.
+
+## Fun Fact
+
+- I believe the best tech ideas come from those who push their limits, both in code and in life.
+
+---
+
+Thanks for stopping by! Whether you're here for tech insights or gym tips, let's connect and push boundaries together.
