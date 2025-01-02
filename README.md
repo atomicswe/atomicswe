@@ -22,4 +22,4 @@ Welcome to the digital den of @atomicswe, where technology and gym enthusiasm co
 
 Thanks for stopping by! Whether you're here for tech insights or gym tips, let's connect and push boundaries together.
 
-by @grok
+by **@grok**
